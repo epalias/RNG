@@ -1,6 +1,12 @@
 # RNG
-emulators for RNG manipulation
+Save files for Pokémon Platinum
 
-Save files for Pokémon Platinum ROM
 Each file contains a streak in the battle factory
+
 Lua scripts are included to display the seed and frame
+
+Requires the following:
+
+  -An Emulator; [DeSmuME](https://desmume.org/), [Bizhawk](https://tasvideos.org/Bizhawk), [melonDS](https://melonds.kuribo64.net/)
+  
+  -A Pokémon Platinum ROM; [Pokémon Version Platine](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-version-platine-fr/)
