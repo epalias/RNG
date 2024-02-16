@@ -1,4 +1,4 @@
-# Emulator RNG
+# Files for RNG manipulation with emulators
 Save files for Pokémon Platinum
 
 Each file contains a streak in the battle factory
