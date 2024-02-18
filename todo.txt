@@ -1,5 +1,6 @@
 #todo
 -edit all 5 battle frontier facilities
+  * add to the infobox a third column for number of Pokémon for multi battles (use chatGPT to tell you how)
   * Change 'Set' to 'Round' in the Battle Points tables
   * find the battle points for Wifi battles
   * Write that the frontier brain can be challenged 'on the 21st/49th consecutive Single Battle'.
