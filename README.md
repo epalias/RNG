@@ -13,6 +13,6 @@ Requires the following:
 
   -A Pokémon SoulSilver ROM; [SoulSilver](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-soulsilver-version/)
 
-  -A Pokémon Renegade Platinum patch; [Renegade Platinum](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/)
+  -A Pokémon Renegade Platinum patch; [Renegade Platinum](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/); [wiki](https://fredericdlugi.github.io/platinum-renegade-wiki/)
 
-  -A save editor; [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) [wiki](https://fredericdlugi.github.io/platinum-renegade-wiki/)
+  -A save editor; [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
