@@ -21,4 +21,15 @@ Requires the following:
 
   -A timer; [EonTimer](https://github.com/DasAmpharos/EonTimer/releases)
 
-To check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the seed, continue melonDS and verify the seed with PokeFinder using Coin Flips and Chatter
+To check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed with PokeFinder using Coin Flips and Chatter
+
+| State  | Seed | Frame |
+| ------------- | ------------- | ------------- |
+| Platine.ml1 |  |  |
+| Platine.ml2 |  |  |
+| Platine.ml3 | 6D100298 | 54 |
+| Platine.ml4 |  |  |
+| Platine.ml5 |  |  |
+| Platine.ml6 |  |  |
+| Platine.ml7 |  |  |
+| Platine.ml8 |  |  |
