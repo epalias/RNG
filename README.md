@@ -17,7 +17,7 @@ Requires the following:
 
   -A save editor; [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 
-  -An RNG tool; [PokeFinder](https://github.com/Admiral-Fish/PokeFinder/releases)
+  -An RNG tool; [PokéFinder](https://github.com/Admiral-Fish/PokeFinder/releases)
 
   -A timer; [EonTimer](https://github.com/DasAmpharos/EonTimer/releases)
 
