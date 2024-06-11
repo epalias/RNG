@@ -26,10 +26,10 @@ To check the seed in melonDS, have a DeSmuME with lua script in the title screen
 | State  | Seed | Frame |
 | :---: | :---: | :---: |
 | Platine.ml1 | 7816029A | 25 |
-| Platine.ml2 |  |  |
-| Platine.ml3 |  |  |
-| Platine.ml4 |  |  |
-| Platine.ml5 |  |  |
-| Platine.ml6 |  |  |
-| Platine.ml7 |  |  |
-| Platine.ml8 |  |  |
+| Platine.ml2 | 8F0A02AE | 30 |
+| Platine.ml3 | 650B02AC | 25 |
+| Platine.ml4 | 710B02A6 | 25 |
+| Platine.ml5 | 850B02D0 | 25 |
+| Platine.ml6 | 840B02B8 | 30 |
+| Platine.ml7 | 950B02B8 | 25 |
+| Platine.ml8 | 8F0B02C6 | 50 |
