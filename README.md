@@ -33,3 +33,4 @@ To check the seed in melonDS, have a DeSmuME with lua script in the title screen
 | Platine.ml6 | 840B02B8 | 30 |
 | Platine.ml7 | 950B02B8 | 25 |
 | Platine.ml8 | 8F0B02C6 | 50 |
+| Platine9.mln | C40F02B4 | 50 |
