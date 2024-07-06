@@ -25,7 +25,7 @@ To check the seed in melonDS, have a DeSmuME with lua script in the title screen
 
 | State  | Seed | Frame |
 | :---: | :---: | :---: |
-| Platine.ml1 | 0x7816029A | 53 |
+| Platine.ml1 | 0x56100296 | 25 |
 | Platine.ml2 | 0x3A0C02AA | 31 |
 | Platine.ml3 | 0x6811029A | 25 |
 | Platine.ml4 | 0x710B02A6 | 25 |
