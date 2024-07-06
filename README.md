@@ -1,9 +1,9 @@
 # Files for RNG manipulation with emulators
-Completed save files for Pokémon Platinum and HeartGold/SoulSilver
+Completed save files for Pokémon Platinum and HeartGold/SoulSilver.
 
-Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of round X
+Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of round X.
 
-Lua scripts are included to display the seed and frame in DeSmuME
+Lua scripts are included to display the seed and frame in DeSmuME.
 
 Requires the following:
 
