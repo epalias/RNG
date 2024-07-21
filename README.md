@@ -5,6 +5,8 @@ Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of 
 
 Lua scripts are included to display the seed and frame in DeSmuME.
 
+To easily check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
+
 Requires the following:
 
   -An Emulator; [DeSmuME](https://desmume.org/), [melonDS](https://melonds.kuribo64.net/)
@@ -20,8 +22,6 @@ Requires the following:
   -An RNG tool; [PokéFinder](https://github.com/Admiral-Fish/PokeFinder/releases)
 
   -A timer; [EonTimer](https://github.com/DasAmpharos/EonTimer/releases)
-
-To check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
 
 | State  | Seed | Frame |
 | :---: | :---: | :---: |
