@@ -25,7 +25,7 @@ Requires the following:
 
 | State  | Seed | Frame |
 | :---: | :---: | :---: |
-| Platine.ml1 | 0x56100296 | 62 |
+| Platine.ml1 | 0xCF0E02A4 | 42 |
 | Platine.ml2 | 0x3A0C02AA | 31 |
 | Platine.ml3 | 0x6811029A | 25 |
 | Platine.ml4 | 0x48120298 | 51 |
