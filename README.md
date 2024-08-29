@@ -30,6 +30,6 @@ Requires the following:
 | Platine.ml3 | 0x101002A4 | 54 |
 | Platine.ml4 | 0x48120298 | 51 |
 | Platine.ml5 | 0x750C029A | 32 |
-| Platine.ml6 | 0xA61002A0 | 32 |
+| Platine.ml6 | 0x181302A6 | 34 |
 | Platine.ml7 | 0x950B02B8 | 59 |
 | Platine.ml8 | 0xBD0D0296 | 45 |
