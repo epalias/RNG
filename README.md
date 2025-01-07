@@ -3,6 +3,8 @@ Completed save files for Pokémon Platinum and HeartGold/SoulSilver.
 
 Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of round X.
 
+Files 'SoulSilver.dsX' and SoulSilver.mlX' contain a streat in the battle factory of round X with 7X trades.
+
 Lua scripts are included to display the seed and frame in DeSmuME.
 
 To easily check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
