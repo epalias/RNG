@@ -3,7 +3,7 @@ Completed save files for Pokémon Platinum and HeartGold/SoulSilver.
 
 Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of round X.
 
-Files SoulSilver.mlX' contain a streak in the battle factory of round X with 7X trades.
+Files 'SoulSilver.dsX' and 'SoulSilver.mlX' contain a streak in the battle factory of round X with 7X trades.
 
 Lua scripts are included to display the seed and frame in DeSmuME.
 
