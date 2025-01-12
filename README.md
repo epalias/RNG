@@ -35,3 +35,7 @@ Requires the following:
 | Platine.ml6 | 0x571102BE | 109 |
 | Platine.ml7 | 0x950B02B8 | 59 |
 | Platine.ml8 | 0xBD0D0296 | 45 |
+| SoulSilver.ml1 | 0x1E130231 | 43 |
+| SoulSilver.ml2 | 0x3c130245 | 25 |
+| SoulSilver.ml3 | 0x4B13024B | 40 |
+| SoulSilver.ml4 | 0x4B13024F | 35 |
