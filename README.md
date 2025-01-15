@@ -15,7 +15,7 @@ Requires the following:
   
   -[Pokémon Platinum ROM](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-version-platine-fr/)
 
-  -[Pokémon SoulSilver ROM](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-soulsilver-version/)
+  -[Pokémon SoulSilver ROM](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-edicion-plata-soulsilver-s/)
 
   -[Pokémon Renegade Platinum patch](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/); [wiki](https://fredericdlugi.github.io/platinum-renegade-wiki/)
 
