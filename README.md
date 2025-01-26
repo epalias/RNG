@@ -5,6 +5,8 @@ Files 'Platine.dsX' and 'Platine.mlX' contain a streak in the battle factory of 
 
 Files 'SoulSilver.dsX' and 'SoulSilver.mlX' contain a streak in the battle factory of round X with 7X trades.
 
+Files 'SoulSilver.ds5' and 'SoulSilver.ml5' contain a team for other facilities' double and multi battles.
+
 Lua scripts are included to display the seed and frame in DeSmuME. Open the .nds file with DeSmuME, click Tools -> Lua Scripting -> New Lua Script Window... -> Browse -> Lua_Pt.lua or Lua_HGSS.lua
 
 To easily check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
