@@ -13,7 +13,7 @@ To easily check the seed in melonDS, have a DeSmuME with lua script in the title
 
 Download all files plus the following:
 
-  -An Emulator; [DeSmuME](https://desmume.org/), [melonDS](https://melonds.kuribo64.net/)
+  -An Emulator; [DeSmuME](https://desmume.org/), [melonDS](https://melonds.kuribo64.net/) (version 0.9.5)
   
   -[Pokémon Platinum ROM](https://www.emulatorgames.net/roms/nintendo-ds/pokemon-version-platine-fr/)
 
