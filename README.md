@@ -27,6 +27,8 @@ Download all files plus the following:
 
   -A timer; [EonTimer](https://github.com/DasAmpharos/EonTimer/releases)
 
+  -A custom date/time application; [RunAsDate](https://runasdate.org/)
+
 | State  | Seed | Frame |
 | :---: | :---: | :---: |
 | Platine.ml1 | 0x1E1102A6 | 40 |
