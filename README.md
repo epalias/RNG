@@ -43,3 +43,4 @@ Download all files plus the following:
 | SoulSilver.ml2 | 0x3C130245 | 25 |
 | SoulSilver.ml3 | 0x4B13024B | 40 |
 | SoulSilver.ml4 | 0x4B13024F | 35 |
+| SoulSilver.ml5 | 0xE7140239 | 11 |
