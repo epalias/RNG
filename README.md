@@ -11,6 +11,8 @@ Lua scripts are included to display the seed and frame in DeSmuME. Open the .nds
 
 To easily check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
 
+To hit a specific seed with melonDS, use RunAsDate to lock the first four digits, save on the title screen, click continue and verify the seed you hit, as above. Then return to the title screen, advance some frames and save, to get closer to the desired seed, and repeat.
+
 Download all files plus the following:
 
   -An Emulator; [DeSmuME](https://desmume.org/), [melonDS](https://melonds.kuribo64.net/) (version 0.9.5)
