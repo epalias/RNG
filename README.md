@@ -7,11 +7,13 @@ Files 'SoulSilver.dsX' and 'SoulSilver.mlX' contain a streak in the battle facto
 
 Files 'SoulSilver.ds5' and 'SoulSilver.ml5' contain a team for other facilities' double and multi battles.
 
+Some extra save files are included for melonDS, titled by their seed and current frame.
+
 Lua scripts are included to display the seed and frame in DeSmuME. Open the .nds file with DeSmuME, click Tools -> Lua Scripting -> New Lua Script Window... -> Browse -> Lua_Pt.lua or Lua_HGSS.lua
 
 To easily check the seed in melonDS, have a DeSmuME with lua script in the title screen to display the current seed, click continue on melonDS, and verify the seed you hit with PokéFinder using Coin Flips and Chatter.
 
-To hit a specific seed with melonDS, use RunAsDate to lock the first four digits, save on the title screen, click continue and verify the seed you hit, as above. Then return to the title screen, advance some frames and save, to get closer to the desired seed, and repeat.
+To hit a specific seed with melonDS, use RunAsDate to lock the first four digits, save on the title screen, click continue, and verify the seed you hit as above. Then return to the title screen, advance some frames and save, to get closer to the desired seed, and repeat.
 
 Download all files plus the following:
 
