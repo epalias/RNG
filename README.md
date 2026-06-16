@@ -7,7 +7,7 @@ Files 'SoulSilver.dsX' and 'SoulSilver.mlX' contain a streak in the battle facto
 
 Files 'SoulSilver.ds5' and 'SoulSilver.ml5' contain a team for other facilities' double and multi battles.
 
-Some extra save files are included for melonDS, titled by their seed and current frame.
+Extra save files are included for DeSmuME and melonDS, titled by their seed and current frame.
 
 Lua scripts are included to display the seed and frame in DeSmuME. Open the .nds file with DeSmuME, click Tools -> Lua Scripting -> New Lua Script Window... -> Browse -> Lua_Pt.lua or Lua_HGSS.lua
 
